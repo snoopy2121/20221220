@@ -336,7 +336,7 @@ a.btn-gradient {
   );
   background-image: -webkit-linear-gradient(left, #ff3cac 40%, #562b7c 100%);
   background-image: linear-gradient(90deg, #ff3cac 40%, #562b7c 100%);
-	position:absolute;
+	
 	top:450px;
 	right:100px;
 	width:200px;
