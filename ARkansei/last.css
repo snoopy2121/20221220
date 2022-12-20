@@ -341,7 +341,7 @@ a.btn-gradient {
 
 a.btn-gradient:after {
   width: 100%;
-  height: 50%;
+  height: 100%;
  
   content: "";
   -webkit-transition: all 0.5s;
