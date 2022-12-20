@@ -360,10 +360,10 @@ a.btn-gradient:after {
     to(#2b86c5)
   );
 
-  background-image: -webkit-linear-gradient(left, #ff3cac, #562b7c, #2b86c5);
+ /* background-image: -webkit-linear-gradient(left, #ff3cac, #562b7c, #2b86c5);
 
   background-image: linear-gradient(90deg, #ff3cac, #562b7c, #2b86c5);
-}
+}*/
 
 a.btn-gradient span {
   position: relative;
