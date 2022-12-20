@@ -349,7 +349,7 @@ a.btn-gradient:after {
 
   background-image: -webkit-gradient(   
     linear,
-    left top,
+   
     right top,
     from(#ff3cac),
     color-stop(#562b7c),
