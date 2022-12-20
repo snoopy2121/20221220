@@ -336,7 +336,8 @@ a.btn-gradient {
   );
   background-image: -webkit-linear-gradient(left, #ff3cac 40%, #562b7c 100%);
   background-image: linear-gradient(90deg, #ff3cac 40%, #562b7c 100%);
-	
+	position: absolute;
+
 }
 
 a.btn-gradient:after {
@@ -349,7 +350,7 @@ a.btn-gradient:after {
 
   background-image: -webkit-gradient(   
     linear,
-   
+   left top;
     right top,
     from(#ff3cac),
     color-stop(#562b7c),
