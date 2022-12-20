@@ -340,7 +340,7 @@ a.btn-gradient {
 	top:350px;
 	right:100px;
 	width:200px;
-	height:60px;
+	height:150px;
 }
 
 a.btn-gradient:after {
@@ -351,8 +351,7 @@ a.btn-gradient:after {
   -webkit-transition: all 0.5s;
   transition: all 0.5s;
 
-  background-image: -webkit-gradient(
-	   
+  background-image: -webkit-gradient(   
     linear,
     left top,
     right top,
