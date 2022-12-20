@@ -354,6 +354,11 @@ a.btn-gradient:after {
     from(#ff3cac),
     color-stop(#562b7c),
     to(#2b86c5)
+	  postion:absolute;
+	  top:500px;
+	  right:100px;
+	  width:190px;
+	  height:60px;
   );
 
  /* background-image: -webkit-linear-gradient(left, #ff3cac, #562b7c, #2b86c5);
